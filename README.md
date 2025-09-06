@@ -1,7 +1,10 @@
+<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 # 💫 About Me:
 🔭 Actualmente desarrollando proyectos web y Java.<br>🌱 Aprendiendo Spring Boot y microservicios (con algo de café de por medio ☕).<br>👯 Abierto a colaborar en proyectos web y full stack.
 
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<a href="https://trendshift.io/developers/2235" target="_blank"><img src="https://trendshift.io/api/badge/developers/2235" alt="anmol098 | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-ansias) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:1danielansias@gmail.com) 
