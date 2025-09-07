@@ -1,7 +1,7 @@
 <h2>Hola, soy Daniel Ansias! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h2>
 
 🔭 Actualmente desarrollando proyectos web y Java.  
-🌱 Aprendiendo Spring Boot y microservicios (con algo de café de por medio ☕).  
+🌱 Aprendiendo Spring Boot y microservicios.  
 👯 Abierto a colaborar en proyectos web y full stack.  
 
 ---
