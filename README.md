@@ -1,14 +1,6 @@
-<h2>Hola, soy Daniel Ansias! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h2>
+<h2> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hola, soy Daniel Ansias! </h2>
 
-🔭 Actualmente desarrollando proyectos web y Java.  
-🌱 Aprendiendo Spring Boot y microservicios.  
-👯 Abierto a colaborar en proyectos web y full stack.  
-
----
-
-## 🌐 Contacto
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-ansias) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:1danielansias@gmail.com)  
+Disfruto creando aplicaciones que no solo funcionan, sino que también se sienten bien de usar. Últimamente estoy explorando **Spring Boot y microservicios**, porque siempre me pica la curiosidad por aprender nuevas tecnologías. Aquí encontrarás proyectos que mezclan práctica, experimentación y mucho café ☕.
 
 ---
 
@@ -32,6 +24,12 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)  
+
+---
+
+## 🌐 Contacto
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-ansias) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:1danielansias@gmail.com)  
 
 ---
 
